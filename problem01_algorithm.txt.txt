@@ -1,0 +1,7 @@
+STEP 1:Start
+STEP 2:Ask the user to enter the distance goal
+STEP 3:Ask for the user to enter the distance already covered
+STEP 4:Compute the sum = dis1 - dis2
+STEP 5:Display the sum 
+STEP 6: End 
+

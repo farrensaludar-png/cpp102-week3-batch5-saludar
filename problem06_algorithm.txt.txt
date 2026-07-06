@@ -1,0 +1,6 @@
+STEP 1:START
+STEP 2: Ask for the fixed base pay
+STEP 3; Ask for the commission based
+STEP 4: Compute the sum = fixe = commission 
+STEP 5: Display the sum
+STEP 6: END 

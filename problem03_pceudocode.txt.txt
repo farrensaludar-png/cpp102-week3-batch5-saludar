@@ -1,0 +1,6 @@
+START
+INPUT per hour. 
+INPUT num of hour
+PROCESS sum = per hour x num of hour
+DISPLAY sum
+END

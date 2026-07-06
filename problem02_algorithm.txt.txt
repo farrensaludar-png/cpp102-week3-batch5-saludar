@@ -1,0 +1,8 @@
+STEP 1:START
+STEP 2:Ask the user for the court length 
+STEP 3:Ask the user for the court width
+STEP 4:Compute sum = length + width 
+TSEP 5:Display the sum.
+STEP 6:END
+
+

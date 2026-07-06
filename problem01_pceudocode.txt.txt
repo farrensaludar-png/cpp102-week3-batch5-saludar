@@ -1,0 +1,8 @@
+Assesmetnt problem 1 
+numbers pceudocode:
+START 
+INPUT num1
+INPUT num2
+PROCESS sum = sum1 - sum2
+DISPLAY sum 
+END 

@@ -1,0 +1,6 @@
+INPUT price and quantity 1st snack
+INPUT price and quantity 2nd snack
+INPUT price and quantity 3rd snack 
+PROCESS Cost = (Price₁ × Quantity₁) + (Price₂ × Quantity₂) + (Price₃ × Quantity₃)
+DISPLAY total cost 
+END 

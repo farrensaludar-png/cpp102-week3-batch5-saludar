@@ -1,0 +1,8 @@
+STEP 1: START
+STEP 2: Ask the price and the quantities for the first snack
+STEP 3: Ask the price and the quantity for the second snack 
+STEP 4: Ask the price and the quantity for the third snack
+STEP 5: Compute Total Cost = (Price₁ × Quantity₁) + (Price₂ × Quantity₂) + (Price₃ × Quantity₃)
+STEP 6: Display total
+STEP 7: END 
+

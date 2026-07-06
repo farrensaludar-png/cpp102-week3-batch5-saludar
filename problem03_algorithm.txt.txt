@@ -1,0 +1,7 @@
+STEP 1: START.
+STEP 2: Ask the user for the rate per hour.
+STEP 3: Ask the user for the hours of park.
+STEP 4: Compute sum = hours of park x per hour 
+step 5: Display the sum
+STEP 6: END 
+

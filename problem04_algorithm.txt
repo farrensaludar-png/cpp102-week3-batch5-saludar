@@ -1,0 +1,8 @@
+STEP 1: START
+STEP 2; Ask for the first trial 
+STEP 3; Ask for the second tril
+STEP 4: Ask forn the third trial
+STEP 5: Compute Average = Sum of Values/ Number of values.
+STEP 6: Display the sum 
+STEP 7 Display the sum 
+STEP 8:END 
